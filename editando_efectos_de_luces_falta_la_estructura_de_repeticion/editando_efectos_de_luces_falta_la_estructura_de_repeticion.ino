@@ -7,7 +7,7 @@ int btn1 = A1;
 int btn2 = A0;
 
 void setup() {
-    pinMode(2,  OUTPUT) ;
+    /*pinMode(2,  OUTPUT) ;
     pinMode(3,  OUTPUT) ;
     pinMode(4,  OUTPUT) ;
     pinMode(5,  OUTPUT) ;
@@ -18,7 +18,7 @@ void setup() {
     pinMode(10, OUTPUT) ;
     pinMode(11, OUTPUT) ;
     pinMode(12, OUTPUT) ;
-    pinMode(13, OUTPUT) ;
+ */ pinMode(13, OUTPUT) ;
       
     pinMode(A5, OUTPUT) ;
     pinMode(A4, OUTPUT) ;
